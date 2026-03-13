@@ -1,0 +1,7 @@
+.env
+src/agent/*.txt
+downloads/*
+bot_env2/*
+*.txt
+__pycache__/
+*.pyc
