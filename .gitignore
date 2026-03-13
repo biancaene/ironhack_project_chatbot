@@ -2,6 +2,6 @@
 src/agent/*.txt
 downloads/*
 bot_env2/*
-*.txt
+downloaded.txt
 __pycache__/
 *.pyc
